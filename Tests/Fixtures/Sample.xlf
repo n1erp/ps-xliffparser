@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="SampleApp">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 18 - Field 1 - Property Caption" translate="yes">
+          <source>Customer No.</source>
+          <target state="translated">No. client</target>
+        </trans-unit>
+        <trans-unit id="Report 50000 - Label 1" translate="yes">
+          <source>Balance Due</source>
+          <target state="needs-translation"></target>
+        </trans-unit>
+        <trans-unit id="Page 21 - Action 1 - Property Caption" translate="yes">
+          <source>Post</source>
+          <target state="needs-review">Valider</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

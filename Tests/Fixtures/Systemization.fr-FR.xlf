@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="Systemization">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 1256520770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Name</source><target>Nom de l’application</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field App Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source><target>Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source><target>Id</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 1437208276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Start Id</source><target>Identifiant de démarrage de l’objet</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field Object Start Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 1772640682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publisher</source><target>Éditeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field Publisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4120757582 - Field 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source><target>Version</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Extension - Field Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Field</source><target>Champ de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 3712612744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Caption</source><target>Légende de terrain</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Field caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 3618188786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Length</source><target>Longueur du champ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Field Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 2925250871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source><target>Nom du champ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Field name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source><target>Champ n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 1871922346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option String</source><target>Chaîne d’options</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Option String - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 3094562639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source><target>Table n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Systemization Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1255825083 - Field 121067091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Type</source><target>Type de champ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Field - Field Systemization Type Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page</source><target>Page de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 3011344727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Page App Package Id</source><target>Identifiant du paquet de l’application de la page cible</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Page App Package Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 304532328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Extension Object ID</source><target>ID d’objet d’extension de page</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Page Ext. Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 3274402224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Page Name</source><target>Nom de la page cible</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Page Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 643268232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page No.</source><target>Page n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Page No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2740184516 - Field 3094562639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source><target>Table n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page - Field Systemization Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page Field</source><target>Champ de page de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 104470898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Anchor Control</source><target>Contrôle d’ancrage</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Anchor Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 2925250871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source><target>Nom du champ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Field name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source><target>Champ n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 356372409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Expression</source><target>Source Expression</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Source Expression - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 4188831625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Target Page No.</source><target>Page cible n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Systemization Page No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 3094562639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source><target>Table n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Systemization Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3441867054 - Field 40076246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Placement</source><target>Placement</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Page Field - Field Type of Place - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Table</source><target>Table de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 4159160262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields</source><target>Champs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Systemization fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 2112047900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table App Package Id</source><target>Identifiant du paquet de l’application table</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Table App Package Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 3116872267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Extension Object ID</source><target>ID d’objet d’extension de table</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Table Ext. Object Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source><target>Nom du tableau</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3094562639 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source><target>Table n°</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Systemization Table - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 20989560 - NamedType 2820228774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The app blob is empty. Generate an app before downloading or publishing.</source><target>L’appli est vide. Générez une application avant de la télécharger ou de la publier.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Systemization App Publisher - NamedType AppBlobEmptyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 20989560 - NamedType 1308742439" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Files (*.app)|*.app</source><target>Fichiers App (*.app)|*.app</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Systemization App Publisher - NamedType AppFileFilterLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 20989560 - NamedType 1812254642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download Extension</source><target>Télécharger l’extension</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Systemization App Publisher - NamedType DownloadDialogTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extension</source><target>Extension de la systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source><target>Généralités</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 1256520770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name for the generated extension.</source><target>Le nom de l’extension générée.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control App Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A short description for the generated extension.</source><target>Une brève description de l’extension générée.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 415504711 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unique identifier used as the technical primary key.</source><target>Identifiant unique utilisé comme clé technique primaire.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 1437208276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Optional starting object ID for generated objects.</source><target>ID d’objet de départ optionnel pour les objets générés.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Object Start Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 1772640682 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The publisher name for the generated extension.</source><target>Le nom de l’éditeur pour l’extension générée.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Publisher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 237762718 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension version (e.g. 1.0.0.0).</source><target>Version d’extension (par exemple 1.0.0.0).</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 3066543932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Pages</source><target>Pages de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Pages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Control 1061736343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Tables</source><target>Tables de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Control Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 3905375823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Field in Table</source><target>Ajouter un champ dans le tableau</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action CreateFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 1347559567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download App</source><target>Télécharger l’application</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action DownloadApp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 3420767252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publish App</source><target>Publier l’application</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action PublishApp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 3420767252 - Method 1377591017 - NamedType 1364239537" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension upload initiated. check progress the progress here:</source><target>Envoi de l’extension lancé. Consultez le progrès de l’avancement ici :</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action PublishApp - Method OnAction - NamedType PublishInitiatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 3420767252 - Method 1377591017 - NamedType 3258652625" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publish failed: %1</source><target>Publication échouée : 1 %</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Error message</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action PublishApp - Method OnAction - NamedType PublishFailedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 3420767252 - Method 1377591017 - NamedType 2878893726" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deployment Status</source><target>Statut du déploiement</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action PublishApp - Method OnAction - NamedType ViewDeploymentStatusLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4120757582 - Action 2817581662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Field in Page</source><target>Ajouter un champ dans la page</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extension - Action ShowFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1613528475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Extensions</source><target>Extensions de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Extensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1255825083 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Field</source><target>Champ de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1255825083 - Control 2905474378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Information</source><target>Informations sur le terrain</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Field - Control FieldInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1012762854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Fields</source><target>Champs de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740184516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page</source><target>Page de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740184516 - Control 742270182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page Fields</source><target>Champs de pages de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page - Control PageFields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740184516 - Control 3507891009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Information</source><target>Informations sur la page</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page - Control PageInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740184516 - Action 3676808055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add page field</source><target>Ajouter un champ de page</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page - Action CreatePageField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247264499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Anchor Control</source><target>Contrôle d’ancre sélectionné</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page systemization Page Anchor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2247264499 - Control 2969592740 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The control name.</source><target>Le nom de contrôle.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page systemization Page Anchor - Control ControlName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2247264499 - Control 4154341761 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sequence field.</source><target>Spécifie la valeur du champ Sequence.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page systemization Page Anchor - Control Sequence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3441867054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page Field</source><target>Champ de page de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3441867054 - Control 2905474378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Information</source><target>Informations sur le terrain</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page Field - Control FieldInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3018841787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Page Fields</source><target>Champs de pages de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Page Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3360551845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Pages</source><target>Pages de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Pages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3094562639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Table</source><target>Table de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3094562639 - Control 183296051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Fields</source><target>Champs de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Table - Control Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3094562639 - Control 1794736454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Information</source><target>Informations sur le tableau</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Table - Control TableInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3094562639 - Action 4000313762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add field</source><target>Ajouter un champ</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Table - Action CreateField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1467276122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization Tables</source><target>Tables de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Systemization Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 219136595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fields</source><target>Champs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page sytemization Page Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2571679794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source><target>Page</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page sytemization Page Metadata - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2571679794 - Control 2879900210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Caption field.</source><target>Spécifie la valeur du champ Légende.</target>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page sytemization Page Metadata - Control Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 617522584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Boolean</source><target>Booléen</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Boolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source><target>Code</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source><target>Date</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 2854863747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime</source><target>DateHeure</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 3350651205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Decimal</source><target>Décimal</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Decimal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 3883182266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integer</source><target>Entier</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Integer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 828292189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Option</source><target>Option</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Option - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 121067091 - EnumValue 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source><target>Texte</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Field - EnumValue Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1964193508 - EnumValue 4065058727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add After</source><target>Ajouter après</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Place - EnumValue addafter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1964193508 - EnumValue 3934767044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Before</source><target>Ajouter avant</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Systemization Type Place - EnumValue addbefore - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 605286843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Systemization permissions</source><target>Autorisations de systématisation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Systemization perm - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
