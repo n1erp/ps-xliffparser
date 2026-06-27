@@ -7,7 +7,7 @@
 # After installing from the Gallery, replace the Import-Module line with:
 #   Import-Module XliffParser
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $samplePath = Join-Path $PSScriptRoot '..\Tests\Fixtures\Sample.xlf'
 $sourcePath = Join-Path $PSScriptRoot '..\Tests\Fixtures\Systemization.g.xlf'

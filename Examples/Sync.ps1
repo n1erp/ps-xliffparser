@@ -7,7 +7,7 @@
 # Typical Business Central flow:
 #   AL compile -> MyApp.g.xlf  -->  Sync-XliffFile  -->  MyApp.fr-FR.xlf
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $source = Join-Path $PSScriptRoot '..\Tests\Fixtures\Systemization.g.xlf'
 $target = Join-Path $PSScriptRoot '..\Tests\Fixtures\Systemization.fr-FR.xlf'

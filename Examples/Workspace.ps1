@@ -4,7 +4,7 @@
 # Run from the repository root:
 #   pwsh .\Examples\Workspace.ps1
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $fixturesPath = Join-Path $PSScriptRoot '..\Tests\Fixtures'
 

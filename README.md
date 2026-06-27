@@ -5,8 +5,7 @@ A PowerShell module for **XLIFF** files, especially **Business Central** `.xlf` 
 ## Install
 
 ```powershell
-Install-Module XliffParser
-Import-Module XliffParser
+Install-Module XliffParser -Scope CurrentUser -Force
 ```
 
 ## Features

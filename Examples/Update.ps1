@@ -6,7 +6,7 @@
 #
 # Workflow: Import -> Set (update in memory + XML) -> Export (write file)
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $source = Join-Path $PSScriptRoot '..\Tests\Fixtures\Sample.xlf'
 $output = Join-Path $env:TEMP 'XliffParser-Sample.updated.xlf'

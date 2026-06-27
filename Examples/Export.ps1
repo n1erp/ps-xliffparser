@@ -4,7 +4,7 @@
 # Run from the repository root:
 #   pwsh .\Examples\Export.ps1
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $path = Join-Path $PSScriptRoot '..\Tests\Fixtures\Sample.xlf'
 $csvPath = Join-Path $env:TEMP 'XliffParser-Sample.csv'

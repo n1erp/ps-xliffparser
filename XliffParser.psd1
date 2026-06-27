@@ -1,6 +1,6 @@
 @{
     RootModule        = 'XliffParser.psm1'
-    ModuleVersion     = '1.0.0'
+    ModuleVersion     = '1.0.1'
     GUID              = '2981e723-15f5-4629-b8fc-f0fff5f2aebb'
     Author            = 'TAHER EL Mehdi'
     CompanyName       = 'N1erp'

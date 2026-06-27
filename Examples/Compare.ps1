@@ -4,7 +4,7 @@
 # Run from the repository root:
 #   pwsh .\Examples\Compare.ps1
 
-Import-Module (Join-Path $PSScriptRoot '..\XliffParser.psd1') -Force
+Import-Module XliffParser
 
 $source = Join-Path $PSScriptRoot '..\Tests\Fixtures\Systemization.g.xlf'
 $translated = Join-Path $PSScriptRoot '..\Tests\Fixtures\Systemization.fr-FR.xlf'
