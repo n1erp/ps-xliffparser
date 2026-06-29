@@ -1,5 +1,6 @@
 # Export.ps1
-# Demonstrates Export-XliffCsv and Export-XliffJson — share translations with reviewers or tools.
+# Demonstrates Export-XliffCsv and Export-XliffJson — export for reviewers (not .xlf files).
+# For saving XLIFF files, see ExportXliff.ps1 (Export-XliffFile).
 #
 # Run from the repository root:
 #   pwsh .\Examples\Export.ps1
